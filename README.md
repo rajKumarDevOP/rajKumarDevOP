@@ -83,7 +83,6 @@ I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT oper
 ![Loki](https://img.shields.io/badge/Loki-000000?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![K6](https://img.shields.io/badge/Tempo-6F42C1?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
