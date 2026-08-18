@@ -1,12 +1,11 @@
-# <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=500&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=👋+Welcome+to+my+Digital+Space;I+Build+Cloud+%7C+Automate+Systems+%7C+Secure+Infrastructure;DevOps+Engineer+%7C+Cloud+Architect+%7C+Open+Source" alt="Typing animation" /></div>
+# <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=500&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=👋+Welcome+to+My+GitHub;DevOps+Engineer+%7C+Cloud+%26+Kubernetes;Infrastructure+%26+Automation+Expert" alt="Typing SVG" /></div>
 
 ---
 
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raj-kumar-409719163)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:krv7677@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/rajKumarDevOP)
 
 </div>
@@ -20,8 +19,8 @@ const rajKumar = {
   role: "DevOps Engineer",
   specialization: "Cloud Infrastructure & Kubernetes",
   passion: "Building scalable, secure, and automated systems",
-  location: "Remote",
-  experience: "Infrastructure Automation | Container Orchestration | CI/CD",
+  location: "Navi Mumbai, Maharashtra, India",
+  experience: "3+ years | Infrastructure Automation | Container Orchestration | CI/CD",
   currentlyWorking: "Enterprise-grade infrastructure solutions"
 }
 ```
@@ -30,18 +29,20 @@ const rajKumar = {
 
 ## 💼 Professional Overview
 
-I'm a **DevOps Engineer** passionate about designing and implementing robust cloud infrastructure. With expertise in **Kubernetes**, **Terraform**, and **containerization**, I create systems that are reliable, scalable, and secure. I believe in the power of **Infrastructure-as-Code** and **automation** to solve complex infrastructure challenges.
+I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT operations**, passionate about designing and implementing robust cloud infrastructure. With expertise in **Kubernetes**, **Terraform**, **CI/CD pipelines**, and **containerization**, I create systems that are scalable, secure, and reliable.
 
 ### ⚡ Core Competencies
 
 | Area | Skills |
 |------|--------|
-| **Container Orchestration** | Kubernetes, Kubespray, Container Networking |
-| **Infrastructure-as-Code** | Terraform, Ansible, CloudFormation |
+| **Container Orchestration** | Kubernetes, Kubespray, microk8s, Container Networking |
+| **Infrastructure-as-Code** | Terraform, CloudFormation, HCL |
 | **Cloud Platforms** | AWS, Multi-cloud strategies |
-| **Security** | TLS/SSL, SSH Hardening, Vulnerability Scanning (Trivy) |
-| **CI/CD & Automation** | GitHub Actions, Pipeline Design, GitOps |
-| **Scripting** | Bash, Python, HCL, Shell Scripting |
+| **Security** | TLS/SSL, SSH Hardening, Vulnerability Scanning (Trivy), Keycloak, HashiCorp Vault |
+| **CI/CD & Automation** | GitHub Actions, Jenkins, Pipeline Design, GitOps |
+| **Monitoring & Logging** | Prometheus, Grafana, Loki, Tempo, ELK Stack, Netdata |
+| **Scripting & Languages** | Bash, Python, HCL, YAML, Shell Scripting |
+| **Web & Load Balancing** | NGINX, HAProxy, Apache Tomcat, Apache2 |
 
 ---
 
@@ -57,9 +58,9 @@ I'm a **DevOps Engineer** passionate about designing and implementing robust clo
 
 ### DevOps & Automation
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -69,9 +70,16 @@ I'm a **DevOps Engineer** passionate about designing and implementing robust clo
 
 ### Security & Monitoring
 ![Security](https://img.shields.io/badge/Security-E74C3C?style=for-the-badge&logo=security&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-Scanning-0066CC?style=for-the-badge&logo=security&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-0066CC?style=for-the-badge&logo=security&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-4DB33D?style=for-the-badge&logo=ssl&logoColor=white)
+
+### Databases & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 </div>
 
@@ -85,12 +93,27 @@ I'm a **DevOps Engineer** passionate about designing and implementing robust clo
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| 🏗️ **[terraform-kubespray](https://github.com/rajKumarDevOP/terraform-kubespray)** | Production-ready Kubernetes cluster deployment via Terraform + Kubespray | `Terraform` `Kubernetes` `IaC` `Automation` |
-| 🔒 **[tls](https://github.com/rajKumarDevOP/tls)** | Enterprise TLS/SSL certificate management and secure communication | `Security` `TLS/SSL` `Certificates` `Encryption` |
-| 🔑 **[ssh](https://github.com/rajKumarDevOP/ssh)** | SSH hardening, key management, and secure access solutions | `SSH` `Security` `Access Control` `Best Practices` |
-| 🛡️ **[trivy](https://github.com/rajKumarDevOP/trivy)** | Container vulnerability scanning and compliance automation | `Security` `Scanning` `Compliance` `DevSecOps` |
+| 🏗️ **[terraform-kubespray](https://github.com/rajKumarDevOP/terraform-kubespray)** | Production-ready Kubernetes cluster deployment via Terraform + Kubespray | `Terraform` `Kubernetes` `IaC` `Kubespray` |
+| 🔒 **[tls](https://github.com/rajKumarDevOP/tls)** | Enterprise TLS/SSL certificate management and secure communication protocols | `Security` `TLS/SSL` `Certificates` `Encryption` |
+| 🔑 **[ssh](https://github.com/rajKumarDevOP/ssh)** | SSH hardening, key management, and secure access solutions for enterprise | `SSH` `Security` `Access Control` `Best Practices` |
+| 🛡️ **[trivy](https://github.com/rajKumarDevOP/trivy)** | Container vulnerability scanning and compliance automation for DevSecOps | `Security` `Scanning` `Compliance` `DevSecOps` |
 
 </div>
+
+---
+
+## 🎯 Key Achievements
+
+- ✅ Designed and maintained **CI/CD pipelines** using **Jenkins** and **GitHub Actions** for multi-tier applications
+- ✅ Built and administered **production Kubernetes clusters** using Kubespray with zero-downtime deployments
+- ✅ Implemented **Infrastructure-as-Code** using Terraform for AWS resource provisioning and management
+- ✅ Deployed centralized monitoring stack: **Prometheus, Grafana, Loki, Tempo, ELK Stack**
+- ✅ Managed **SSL/TLS certificate renewals** across 50+ cloud and on-premises servers
+- ✅ Migrated services from **Apache2 to HAProxy**, resolving portal downtime issues
+- ✅ Implemented **database replication** and high availability for PostgreSQL and MySQL
+- ✅ Configured **secure reverse proxies** and load balancing with NGINX and HAProxy
+- ✅ Deployed **Keycloak MFA** and **HashiCorp Vault** for enterprise security
+- ✅ Achieved **near zero-downtime deployments** for enterprise applications
 
 ---
 
@@ -125,6 +148,7 @@ I'm a **DevOps Engineer** passionate about designing and implementing robust clo
 - 🔐 Zero-trust security architecture
 - 📊 eBPF and advanced observability
 - 🤖 Infrastructure automation at scale
+- 🚀 GitOps and declarative infrastructure
 
 </div>
 
@@ -135,11 +159,14 @@ I'm a **DevOps Engineer** passionate about designing and implementing robust clo
 ```
 ✅ Proven expertise in building scalable cloud infrastructure
 ✅ Deep understanding of containerization & orchestration
-✅ Strong focus on security, compliance, and best practices
+✅ Strong focus on security, compliance, and DevSecOps best practices
 ✅ Automation-first mindset for operational excellence
-✅ Experience with Infrastructure-as-Code in complex environments
+✅ 3+ years of hands-on experience with enterprise deployments
+✅ Infrastructure-as-Code in complex, production environments
 ✅ Collaborative approach to cross-functional teams
-✅ Passion for knowledge sharing and mentoring
+✅ Passion for knowledge sharing, documentation, and mentoring
+✅ Proven track record of resolving critical production issues
+✅ Experience with cost optimization and AWS budget management
 ```
 
 ---
@@ -149,13 +176,17 @@ I'm a **DevOps Engineer** passionate about designing and implementing robust clo
 I'm always interested in:
 - 🎯 Challenging DevOps problems and infrastructure design discussions
 - 💼 Open source contributions to cloud-native projects
-- 🔗 Collaborating with like-minded engineers
+- 🔗 Collaborating with like-minded engineers and architects
 - 📚 Knowledge sharing through blogs, talks, and documentation
 - 🚀 Exploring innovative solutions in the DevOps ecosystem
+- 🌐 Building scalable, secure, and reliable systems together
 
 <div align="center">
 
 **Feel free to reach out for discussions, collaborations, or just to connect!**
+
+📧 Email: [krv7677@gmail.com](mailto:krv7677@gmail.com)
+🔗 LinkedIn: [linkedin.com/in/raj-kumar-409719163](https://www.linkedin.com/in/raj-kumar-409719163)
 
 </div>
 
@@ -175,11 +206,12 @@ I'm always interested in:
 
 <div align="center">
 
-- 🎸 When not coding, you'll find me exploring DevOps communities
-- 📖 Passionate about reading tech blogs and documentation
+- 🔧 When not coding, you'll find me exploring DevOps communities and best practices
+- 📖 Passionate about reading tech blogs, whitepapers, and documentation
 - 🌍 Believer in open-source and community-driven development
-- ⚙️ Constantly refactoring infrastructure for better performance
-- 🔍 Enjoys debugging complex infrastructure issues
+- ⚙️ Constantly optimizing and refactoring infrastructure for performance
+- 🔍 Enjoys debugging complex infrastructure and production issues
+- 🎯 Dedicated to building systems that scale, secure by default
 
 </div>
 
@@ -193,7 +225,7 @@ I'm always interested in:
 
 **Made with ❤️ by Raj Kumar | DevOps Engineer**
 
-*"Infrastructure is not just about servers; it's about enabling teams to deliver value faster and more reliably."*
+*"Infrastructure is not just about servers; it's about enabling teams to deliver value faster, securely, and reliably."*
 
 ---
 
