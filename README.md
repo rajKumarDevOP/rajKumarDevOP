@@ -20,8 +20,8 @@
 | Field | Details |
 |---|---|
 | Role | DevOps Engineer |
-| Specialization | Cloud Infrastructure & Kubernetes |
-| Passion | Building scalable, secure, and automated systems |
+| Specialization | Cloud Infrastructure, VMs, Linux |
+| Passion | Building scalable, secure, resilient, highly available and automated systems |
 | Location | Navi Mumbai, Maharashtra, India |
 | Experience | 3+ years — Infrastructure Automation, Container Orchestration, CI/CD |
 | Currently working | Enterprise-grade infrastructure solutions |
