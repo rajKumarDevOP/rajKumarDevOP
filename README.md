@@ -3,7 +3,7 @@
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=500&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%91%8B+WELCOME" />
 </div> -->
 
----
+
 
 <!-- <div align="center">
 
@@ -13,7 +13,7 @@
 
 </div> -->
 
----
+ 
 
 ## 🎯 About Me
 
