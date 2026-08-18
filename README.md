@@ -16,22 +16,20 @@
 
 ## 🎯 About Me
 
-```javascript
-const rajKumar = {
-  role: "DevOps Engineer",
-  specialization: "Cloud Infrastructure & Kubernetes",
-  passion: "Building scalable, secure, and automated systems",
-  location: "Navi Mumbai, Maharashtra, India",
-  experience: "3+ years | Infrastructure Automation | Container Orchestration | CI/CD",
-  currentlyWorking: "Enterprise-grade infrastructure solutions"
-}
-```
+| Field | Details |
+|---|---|
+| Role | DevOps Engineer |
+| Specialization | Cloud Infrastructure & Kubernetes |
+| Passion | Building scalable, secure, and automated systems |
+| Location | Navi Mumbai, Maharashtra, India |
+| Experience | 3+ years — Infrastructure Automation, Container Orchestration, CI/CD |
+| Currently working | Enterprise-grade infrastructure solutions |
 
 ---
 
 ## 💼 Professional Overview
 
-I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT operations**, passionate about designing and implementing robust cloud infrastructure. With expertise in **Kubernetes**,[...] 
+I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT operations**, passionate about designing and implementing robust cloud infrastructure. With expertise in **Kubernetes**,[...]
 
 ### ⚡ Core Competencies
 
