@@ -74,7 +74,7 @@ I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT oper
 ![Security](https://img.shields.io/badge/Security-E74C3C?style=for-the-badge&logo=security&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-0066CC?style=for-the-badge&logo=trivy&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![OWASP/ZAP](https://img.shields.io/badge/OWASP%20ZAP-CC3333?style=for-the-badge&logo=owasp&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-CC3333?style=for-the-badge&logo=owasp&logoColor=white)
 ![HashiCorp Vault](https://img.shields.io/badge/Vault-4B4B4B?style=for-the-badge&logo=hashicorp&logoColor=white)
 
 ### Monitoring
@@ -83,7 +83,7 @@ I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT oper
 ![Loki](https://img.shields.io/badge/Loki-000000?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Grafana K6](https://img.shields.io/badge/Tempo-6F42C1?style=for-the-badge&logo=grafana&logoColor=white)
+![K6](https://img.shields.io/badge/Tempo-6F42C1?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
