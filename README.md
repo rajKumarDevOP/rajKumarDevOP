@@ -1,6 +1,6 @@
-
+ 
 <!-- <div align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=500&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%91%8B+WELCOME" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=500&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%91%8B+WELCO[...]
 </div> -->
 
 
@@ -39,7 +39,7 @@ I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT oper
 | **Container Orchestration** | Kubernetes, Kubespray, microk8s, Docker Compose, Container Networking |
 | **Infrastructure-as-Code** | Terraform|
 | ** Infrastructure Platforms** | AWS , Data Centre VMs |
-| **Security** | TLS/SSL, SSH Hardening, Vulnerability Scanning (Trivy), Keycloak, HashiCorp Vault, OWASP, ZAP |
+| **Security** | TLS/SSL, SSH Hardening, Vulnerability Scanning (Trivy), Keycloak, HashiCorp Vault, OWASP ZAP |
 | **CI/CD & Automation** | GitHub Actions, Jenkins, Pipeline Design, GitOps |
 | **Monitoring & Logging** | Prometheus, Grafana, Loki, Tempo, ELK Stack, Netdata |
 | **Scripting & Languages** | Bash, Python, HCL, YAML, Shell Scripting |
@@ -70,11 +70,20 @@ I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT oper
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-### Security & Monitoring
+### Security
 ![Security](https://img.shields.io/badge/Security-E74C3C?style=for-the-badge&logo=security&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-0066CC?style=for-the-badge&logo=security&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-0066CC?style=for-the-badge&logo=trivy&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-CC3333?style=for-the-badge&logo=owasp&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/Vault-4B4B4B?style=for-the-badge&logo=hashicorp&logoColor=white)
+
+### Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-4DB33D?style=for-the-badge&logo=ssl&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-000000?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Tempo](https://img.shields.io/badge/Tempo-6F42C1?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
