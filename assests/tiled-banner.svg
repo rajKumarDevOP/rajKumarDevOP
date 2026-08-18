@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Colorful tiled background">
+  <defs>
+    <filter id="ds" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#071126" flood-opacity="0.55"/>
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="rgba(255,255,255,0.06)"/>
+      <stop offset="1" stop-color="rgba(0,0,0,0.06)"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background base -->
+  <rect width="1200" height="360" fill="#071126"/>
+
+  <!-- tiled rectangles -->
+  <!-- columns x rows: 12 x 4 -->
+  <!-- colors chosen to be vivid across the hue wheel -->
+  <g filter="url(#ds)" opacity="0.98">
+    <!-- row 0 -->
+    <rect x="32"  y="28"  rx="12" ry="12" width="88" height="88" fill="hsl(340,85%,60%)"/>
+    <rect x="132" y="28"  rx="12" ry="12" width="88" height="88" fill="hsl(14,85%,58%)"/>
+    <rect x="232" y="28"  rx="12" ry="12" width="88" height="88" fill="hsl(36,80%,58%)"/>
+    <rect x="332" y="28"  rx="12" ry="12" width="88" height="88" fill="hsl(80,75%,52%)"/>
+    <rect x="432" y="28"  rx="12" ry="12" width="88" height="88" fill="hsl(140,70%,48%)"/>
+    <rect x="532" y="28"  rx="12" ry="12" width="88" height="88" fill="hsl(190,78%,50%)"/>
+    <rect x="632" y="28"  rx="12" ry="12" width="88" height="88" fill="hsl(230,70%,52%)"/>
+    <rect x="732" y="28"  rx="12" ry="12" width="88" height="88" fill="hsl(270,78%,56%)"/>
+    <rect x="832" y="28"  rx="12" ry="12" width="88" height="88" fill="hsl(310,70%,56%)"/>
+    <rect x="932" y="28"  rx="12" ry="12" width="88" height="88" fill="hsl(10,75%,60%)"/>
+    <rect x="1032" y="28" rx="12" ry="12" width="88" height="88" fill="hsl(200,65%,46%)"/>
+    <rect x="1132" y="28" rx="12" ry="12" width="36" height="88" fill="hsl(260,72%,54%)"/>
+
+    <!-- row 1 -->
+    <rect x="32"  y="126" rx="12" ry="12" width="88" height="88" fill="hsl(30,78%,56%)"/>
+    <rect x="132" y="126" rx="12" ry="12" width="88" height="88" fill="hsl(60,75%,58%)"/>
+    <rect x="232" y="126" rx="12" ry="12" width="88" height="88" fill="hsl(100,65%,50%)"/>
+    <rect x="332" y="126" rx="12" ry="12" width="88" height="88" fill="hsl(150,68%,46%)"/>
+    <rect x="432" y="126" rx="12" ry="12" width="88" height="88" fill="hsl(200,78%,50%)"/>
+    <rect x="532" y="126" rx="12" ry="12" width="88" height="88" fill="hsl(240,70%,52%)"/>
+    <rect x="632" y="126" rx="12" ry="12" width="88" height="88" fill="hsl(280,72%,56%)"/>
+    <rect x="732" y="126" rx="12" ry="12" width="88" height="88" fill="hsl(320,76%,60%)"/>
+    <rect x="832" y="126" rx="12" ry="12" width="88" height="88" fill="hsl(10,70%,58%)"/>
+    <rect x="932" y="126" rx="12" ry="12" width="88" height="88" fill="hsl(60,75%,55%)"/>
+    <rect x="1032" y="126" rx="12" ry="12" width="88" height="88" fill="hsl(180,65%,48%)"/>
+    <rect x="1132" y="126" rx="12" ry="12" width="36" height="88" fill="hsl(210,72%,52%)"/>
+
+    <!-- row 2 -->
+    <rect x="32"  y="224" rx="12" ry="12" width="88" height="88" fill="hsl(350,78%,58%)"/>
+    <rect x="132" y="224" rx="12" ry="12" width="88" height="88" fill="hsl(20,75%,56%)"/>
+    <rect x="232" y="224" rx="12" ry="12" width="88" height="88" fill="hsl(50,78%,56%)"/>
+    <rect x="332" y="224" rx="12" ry="12" width="88" height="88" fill="hsl(95,68%,52%)"/>
+    <rect x="432" y="224" rx="12" ry="12" width="88" height="88" fill="hsl(160,70%,48%)"/>
+    <rect x="532" y="224" rx="12" ry="12" width="88" height="88" fill="hsl(195,75%,50%)"/>
+    <rect x="632" y="224" rx="12" ry="12" width="88" height="88" fill="hsl(235,70%,52%)"/>
+    <rect x="732" y="224" rx="12" ry="12" width="88" height="88" fill="hsl(275,72%,56%)"/>
+    <rect x="832" y="224" rx="12" ry="12" width="88" height="88" fill="hsl(305,68%,56%)"/>
+    <rect x="932" y="224" rx="12" ry="12" width="88" height="88" fill="hsl(25,70%,58%)"/>
+    <rect x="1032" y="224" rx="12" ry="12" width="88" height="88" fill="hsl(190,65%,48%)"/>
+    <rect x="1132" y="224" rx="12" ry="12" width="36" height="88" fill="hsl(250,72%,52%)"/>
+  </g>
+
+  <!-- gentle glossy overlay -->
+  <rect x="0" y="0" width="1200" height="360" fill="url(#g1)" opacity="0.06"/>
+
+  <!-- optional header text inside SVG (you can remove if you prefer a pure background) -->
+  <g transform="translate(48,48)" fill="white" font-family="system-ui, -apple-system, Roboto, 'Segoe UI', Arial" >
+    <text x="0" y="20" font-size="18" fill="rgba(255,255,255,0.92)">Hi — I'm</text>
+    <text x="0" y="56" font-size="34" font-weight="700" fill="white">rajKumarDevOP</text>
+    <text x="0" y="92" font-size="14" fill="rgba(255,255,255,0.85)">Developer • Open-source • Designer</text>
+  </g>
+</svg>
