@@ -39,7 +39,7 @@ I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT oper
 | **Container Orchestration** | Kubernetes, Kubespray, microk8s, Docker Compose, Container Networking |
 | **Infrastructure-as-Code** | Terraform|
 | ** Infrastructure Platforms** | AWS , Data Centre VMs |
-| **Security** | TLS/SSL, SSH Hardening, Vulnerability Scanning (Trivy), Keycloak, HashiCorp Vault, OWASP ZAP |
+| **Security** | TLS/SSL, SSH Hardening, Vulnerability Scanning (Trivy), Keycloak, HashiCorp Vault, OWASP, ZAP |
 | **CI/CD & Automation** | GitHub Actions, Jenkins, Pipeline Design, GitOps |
 | **Monitoring & Logging** | Prometheus, Grafana, Loki, Tempo, ELK Stack, Netdata |
 | **Scripting & Languages** | Bash, Python, HCL, YAML, Shell Scripting |
