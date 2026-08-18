@@ -94,9 +94,7 @@ I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT oper
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
 | 🏗️ **[terraform-kubespray](https://github.com/rajKumarDevOP/terraform-kubespray)** | Production-ready Kubernetes cluster deployment via Terraform + Kubespray | `Terraform` `Kubernetes` `IaC[...]`
-| 🔒 **[tls](https://github.com/rajKumarDevOP/tls)** | Enterprise TLS/SSL certificate management and secure communication protocols | `Security` `TLS/SSL` `Certificates` `Encryption` |
-| 🔑 **[ssh](https://github.com/rajKumarDevOP/ssh)** | SSH hardening, key management, and secure access solutions for enterprise | `SSH` `Security` `Access Control` `Best Practices` |
-| 🛡️ **[trivy](https://github.com/rajKumarDevOP/trivy)** | Container vulnerability scanning and compliance automation for DevSecOps | `Security` `Scanning` `Compliance` `DevSecOps` |
+| 🔒 **[terraform](https://github.com/rajKumarDevOP/terraform)** | Production ready Infrastructure provision with  different customized AWS AMIs | S3 backend and state locking |
 
 </div>
 
