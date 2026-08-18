@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Colorful Tiled Background</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="tile-wrapper">
+    <div class="tile-grid" id="tileGrid"></div>
+    <div class="content">
+      <h1>Welcome</h1>
+      <p>Example page with colorful tiled background.</p>
+    </div>
+  </div>
+
+  <script>
+    // Generate tiles dynamically so you don't have to write them manually
+    const grid = document.getElementById('tileGrid');
+    const cols = 12;
+    const rows = 8;
+    const total = cols * rows;
+
+    for (let i = 0; i < total; i++) {
+      const tile = document.createElement('div');
+      tile.className = 'tile';
+      // set a random hue and small rotation for variety
+      const hue = Math.floor(Math.random() * 360);
+      tile.style.setProperty('--h', hue);
+      tile.style.setProperty('--r', (Math.random() * 6 - 3) + 'deg');
+      // stagger animation start
+      tile.style.setProperty('--delay', `${Math.random() * 1.2}s`);
+      grid.appendChild(tile);
+    }
+  </script>
+</body>
+</html>
