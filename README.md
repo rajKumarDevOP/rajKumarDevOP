@@ -121,10 +121,10 @@ I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT oper
 
 <div align="center">
 
-<a href="https://github.com/rajKumarDevOP">
+<!-- <a href="https://github.com/rajKumarDevOP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajKumarDevOP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajKumarDevOP&layout=compact&langs_count=8&theme=tokyonight" />
-</a>
+</a> -->
 
 <br/>
 
