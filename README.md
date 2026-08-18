@@ -20,7 +20,7 @@
 | Field | Details |
 |---|---|
 | Role | DevOps Engineer |
-| Specialization | Cloud Infrastructure, VMs, Linux |
+| Specialization | Cloud Infrastructure, VMs, Linux, Deployments, automations |
 | Passion | Building scalable, secure, resilient, highly available and automated systems |
 | Location | Navi Mumbai, Maharashtra, India |
 | Experience | 3+ years — Infrastructure Automation, Container Orchestration, CI/CD |
