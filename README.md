@@ -24,7 +24,7 @@
 | Passion | Building scalable, secure, resilient, highly available and automated systems |
 | Location | Navi Mumbai, Maharashtra, India |
 | Experience | 3+ years — Infrastructure Automation, Container Orchestration, CI/CD |
-| Currently working | Enterprise-grade infrastructure solutions |
+| Currently working | AI infrastructure solutions |
 
 ---
 
@@ -93,8 +93,6 @@ I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT oper
 
 ### Artifact Repository
 ![Nexus](https://img.shields.io/badge/Nexus-000000?style=for-the-badge&logo=sonatype&logoColor=white)
-
-Nexus Repository — hosted Nexus used for uploading/downloading WAR artifacts as part of our CI/CD pipeline (artifact storage and distribution).
 
 </div>
 
