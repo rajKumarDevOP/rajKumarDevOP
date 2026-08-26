@@ -1,4 +1,4 @@
- 
+  
 <!-- <div align="center">
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=500&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%91%8B+WELCO[...]
 </div> -->
@@ -30,7 +30,7 @@
 
 ## 💼 Professional Overview
 
-I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT operations**, passionate about designing and implementing robust cloud infrastructure. With expertise in **Kubernetes**,[...]
+I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT operations**, passionate about designing and implementing robust cloud infrastructure. With expertise in **Kubernetes**,,[...]
 
 ### ⚡ Core Competencies
 
@@ -91,6 +91,11 @@ I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT oper
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
+### Artifact Repository
+![Nexus](https://img.shields.io/badge/Nexus-000000?style=for-the-badge&logo=sonatype&logoColor=white)
+
+Nexus Repository — hosted Nexus used for uploading/downloading WAR artifacts as part of our CI/CD pipeline (artifact storage and distribution).
+
 </div>
 
 ---
@@ -103,7 +108,7 @@ I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT oper
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| 🏗️ **[terraform-kubespray](https://github.com/rajKumarDevOP/terraform-kubespray)** | Production-ready Kubernetes cluster deployment via Terraform + Kubespray | `Terraform` `Kubernetes` `IaC[...]`
+| 🏗️ **[terraform-kubespray](https://github.com/rajKumarDevOP/terraform-kubespray)** | Production-ready Kubernetes cluster deployment via Terraform + Kubespray | `Terraform` `Kubernetes` `Ia[...]
 | 🔒 **[terraform](https://github.com/rajKumarDevOP/terraform)** | Production ready Infrastructure provision with  different customized AWS AMIs | S3 backend and state locking |
 
 </div>
