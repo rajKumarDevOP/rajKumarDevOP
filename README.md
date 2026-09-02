@@ -30,7 +30,7 @@
 
 ## 💼 Professional Overview
 
-I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT operations**, passionate about designing and implementing robust cloud infrastructure. With expertise in **Kubernetes**,,[...]
+I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT operations**, passionate about designing and implementing robust cloud infrastructure. With expertise in **Kubernetes**,[...]
 
 ### ⚡ Core Competencies
 
@@ -60,6 +60,7 @@ I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT oper
 
 ### DevOps & Automation
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-0EA5A2?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
