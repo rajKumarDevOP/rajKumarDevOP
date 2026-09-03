@@ -104,7 +104,7 @@ I'm a DevOps Engineer with 3+ years' experience in DevOps, DevSecOps, and IT ope
 <div align="center">
 
 ### Infrastructure & Deployment
-
+|---------|-------------|-----------|
 | 🏗️ **[Terraform-Kubespray](https://github.com/rajKumarDevOP/Terraform-Kubespray)** | Production-ready Kubernetes cluster deployment via Terraform + Kubespray | `Terraform` `Kubernetes` `Kubespray` |
 | 🔧 **[MultiConfiguration-infrastructure-withTerraform](https://github.com/rajKumarDevOP/MultiConfiguartion-infrastructure-withTerraform)** | Production-ready multi-configuration AWS infrastructure provisioning | `Terraform` `AWS` `HCL` |
 | 🔒 **[Keycloak-Containerized-Deployment](https://github.com/rajKumarDevOP/Keycloak-Containerized-Deployment)** | Enterprise Identity & Access Management with Keycloak containerization | `Keycloak` `Docker` `Security` |
@@ -118,7 +118,6 @@ I'm a DevOps Engineer with 3+ years' experience in DevOps, DevSecOps, and IT ope
 | 📦 **[Typescript-Stack-Containerized-CICD-Deployment](https://github.com/rajKumarDevOP/Typescript-Stack-Containerized-CICD-Deployment)** | Modern Typescript stack (React + Postgres + Linux) with containerized CI/CD | `Typescript` `React` `PostgreSQL` `Docker` |
 
 ### Kubernetes & Container Orchestration
-
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
 | ⚙️ **[microk8s](https://github.com/rajKumarDevOP/microk8s)** | Lightweight Kubernetes setup and configurations | `Kubernetes` `microk8s` |
