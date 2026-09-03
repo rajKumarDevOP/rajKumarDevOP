@@ -30,7 +30,7 @@
 
 ## 💼 Professional Overview
 
-I'm a **DevOps Engineer** with 3+ years of experience in **DevSecOps and IT operations**, passionate about designing and implementing robust cloud infrastructure. With expertise in **Kubernetes**,[...]
+I'm a DevOps Engineer with 3+ years' experience in DevOps, DevSecOps, and IT operations, focused on building scalable, secure, and automated cloud infrastructure. I design and maintain production-ready Kubernetes clusters (Kubespray, microk8s), implement Infrastructure-as-Code using Terraform, and build CI/CD pipelines with GitHub Actions and Jenkins. I have hands-on experience with AWS and on-premises VM environments, containerization with Docker, centralized monitoring (Prometheus, Grafana, Loki), and security practices including TLS/SSH hardening, vulnerability scanning (Trivy), and secrets management (HashiCorp Vault, Keycloak). I prioritize automation, reliability, and security to deliver highly available systems and near-zero downtime deployments.
 
 ### ⚡ Core Competencies
 
