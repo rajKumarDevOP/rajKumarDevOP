@@ -104,6 +104,7 @@ I'm a DevOps Engineer with 3+ years' experience in DevOps, DevSecOps, and IT ope
 <div align="center">
 
 ### Infrastructure & Deployment
+| Project | Description | Tech Stack |
 |---------|-------------|-----------|
 | 🏗️ **[Terraform-Kubespray](https://github.com/rajKumarDevOP/Terraform-Kubespray)** | Production-ready Kubernetes cluster deployment via Terraform + Kubespray | `Terraform` `Kubernetes` `Kubespray` |
 | 🔧 **[MultiConfiguration-infrastructure-withTerraform](https://github.com/rajKumarDevOP/MultiConfiguartion-infrastructure-withTerraform)** | Production-ready multi-configuration AWS infrastructure provisioning | `Terraform` `AWS` `HCL` |
